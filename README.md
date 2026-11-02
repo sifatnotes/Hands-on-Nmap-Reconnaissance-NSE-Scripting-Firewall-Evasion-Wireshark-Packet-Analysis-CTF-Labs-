@@ -1,0 +1,2 @@
+# Hands-on-Nmap-Reconnaissance-NSE-Scripting-Firewall-Evasion-Wireshark-Packet-Analysis-CTF-Labs-
+A practical collection of cybersecurity CTF labs covering advanced network discovery (Nmap fundamentals, host discovery, port scanning, service enumeration, OS fingerprinting, vulnerability scanning), custom NSE scripting &amp; firewall/IDS evasion, and deep packet traffic analysis (HTTP headers, TLS handshakes, malware beacons, advanced PCAP relays).
